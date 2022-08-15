@@ -1,10 +1,10 @@
 // step 1
 
-var myAge = '33';
+var myAge = 33;
 
 // step 2
 
-var earlyYears = '2';
+var earlyYears = 2;
 
 // step 3
 
